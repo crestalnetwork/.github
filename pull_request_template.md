@@ -12,21 +12,21 @@ What kind of change does this PR introduce?
 - [ ] Tests
 - [ ] Other
 
-[Notion Task](https://www.notion.so/crestalnetwork#TASK_NO)
+[Notion Task](#)
 
 ### Feature/Bugfix Details
 
 #### Existing Behavior
 
-<sub><sup>What is the current behavior? (You can also link to an open issue here)</sup></sub>
+> What is the current behavior? (You can also link to an open issue here)
 
 #### New Behavior
 
-<sub><sup>What is the new behavior (if this is a feature change)?</sup></sub>
+> What is the new behavior (if this is a feature change)?
 
 #### Breaking Changes
 
-<sub><sup>What changes might users need to make in their application due to this PR?</sup></sub>
+> What changes might users need to make in their application due to this PR?
 
 ## Requirements
 
